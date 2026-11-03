@@ -4,7 +4,7 @@
 
 Todo lo que ves, lees y escuchas: películas, series, animes, libros y discos, con tu nota, tu reseña y tu diario. Sin anuncios ni rastreo.
 
-Una app de [Fogón](https://github.com/fogonapps/fogon): apps de Android libres, hechas en casa.
+Una app de [Fogón](https://github.com/fogonapps/fogon): apps para el día a día, sin suscripciones, sin anuncios ni rastreo.
 
 ## Instalar
 
