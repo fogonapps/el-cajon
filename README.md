@@ -1,3 +1,5 @@
+<p align="center"><img src="https://raw.githubusercontent.com/fogonapps/fogon/main/apps/cajon/fastlane/metadata/android/en-US/images/icon.png" width="140" alt="El Cajón"></p>
+
 # El Cajón
 
 Todo lo que ves, lees y escuchas: películas, series, animes, libros y discos, con tu nota, tu reseña y tu diario. Sin anuncios ni rastreo.
