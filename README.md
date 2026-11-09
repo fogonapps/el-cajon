@@ -15,6 +15,17 @@ Este repo solo guarda las versiones para instalar. **El código está en [fogona
 
 Paquete `io.github.fogonapps.cajon`. Certificado de firma (SHA-256): `ce5406882e361cf18e3ece18fa348769e34d8fa6cc8dd53f74a77289a993d8e5`
 
+
+## Problemas conocidos
+
+El Cajón está en **beta**: todavía puede cambiar y tener fallos. Si encuentras uno, cuéntanos desde la app (Ajustes → «Reportar un fallo o sugerir algo») o en los [issues de Fogón](https://github.com/fogonapps/fogon/issues).
+
+- Algunas carátulas de discos (Cover Art Archive, que vienen de archive.org) tardan o no cargan.
+- Los títulos de TMDB sin traducción salen en su idioma original.
+- La política de privacidad solo existe en español.
+
+**English.** El Cajón is in **beta**: it may still change and have bugs. Known issues: some album covers from Cover Art Archive load slowly or not at all; TMDB titles without a translation show in their original language; the privacy policy is only available in Spanish.
+
 ---
 
 **English.** Everything you watch, read and listen to: films, series, anime, books and records, with your rating, review and diary. No ads, no tracking. Install with Obtainium (paste `https://github.com/fogonapps/el-cajon`) or grab the APK from the [latest release](https://github.com/fogonapps/el-cajon/releases/latest). Source code: [fogonapps/fogon](https://github.com/fogonapps/fogon/tree/main/apps/cajon) (GPL-3.0-or-later).
